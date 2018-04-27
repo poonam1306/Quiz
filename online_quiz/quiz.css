@@ -1,0 +1,124 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+}
+table{
+	color:white;
+}
+
+.style1 {
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.style2 {
+	color: #990000;
+	font-weight: bold;
+}
+.style4 {
+	color: #000000;
+	font-weight: bold;
+}
+.style5 {color: #990033}
+.style6 {color: #ECE9D8}
+.style7 {
+	color: #993300;
+	font-weight: bold;
+}
+.style8 {
+	color: #6633CC;
+	font-weight: bold;
+}
+a:link {
+	color: #330066;
+	text-decoration: none;
+}
+a:hover {
+	color: #FFCC00;
+	text-decoration: underline;
+}
+a:visited {
+	color: #330066;
+	text-decoration: none;
+}
+.head1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #FF0000;
+	text-align: center;
+	font-weight: bold;
+}
+.errors {
+
+	color: #FF0000;
+	font-weight: bold;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #000000;
+}
+.tot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color: #000000;
+	
+}
+.tans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#00CC66 ;
+}
+.fans {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	color:#FF0000 ;
+}
+#frmLogin { 
+	padding: 20px 60px;
+	background: #B6E0FF;
+	color: #555;
+	display: inline-block;
+	border-radius: 4px; 
+}
+.field-group { 
+	margin:15px 0px; 
+}
+.input-field {
+	padding: 8px;width: 200px;
+	border: #A3C3E7 1px solid;
+	border-radius: 4px; 
+}
+.form-submit-button {
+	background: #65C370;
+	border: 0;
+	padding: 8px 20px;
+	border-radius: 4px;
+	color: #FFF;
+	text-transform: uppercase; 
+}
+.member-dashboard {
+	padding: 40px;
+	background: #D2EDD5;
+	color: #555;
+	border-radius: 4px;
+	display: inline-block;
+	text-align:center; 
+}
+.logout-button {
+	color: #09F;
+	text-decoration: none;
+	background: none;
+	border: none;
+	padding: 0px;
+	cursor: pointer;
+}
+.error-message {
+	text-align:center;
+	color:#FF0000;
+}
+.demo-content label{
+	width:auto;
+}
